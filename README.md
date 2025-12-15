@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi. my name is seung chan 👋
 
 <!--
 **seungchan-0629/seungchan-0629** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
