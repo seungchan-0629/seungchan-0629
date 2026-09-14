@@ -1,13 +1,13 @@
 <!-- 헤더 타이틀 및 슬로건 -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=121824&height=180&section=header&text=SEUNG%20CHAN%20%7C%20Back-end&fontSize=42&fontColor=ffffff&fontAlign=50&fontAlignY=43" />
-</p>
+# ⚡ SEUNG CHAN | Back-end Developer
 
-<p align="center">
+<p align="left">
   <a href="https://github.com/seungchan-0629">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=3000&pause=1000&color=94A3B8&center=true&vCenter=true&width=550&lines=Robust+Batch+Processing;Reliable+System+Security;Performance-driven+Backend+Developer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=3000&pause=1000&color=94A3B8&center=false&vCenter=true&width=550&lines=Robust+Batch+Processing;Reliable+System+Security;Performance-driven+Backend+Developer" alt="Typing SVG" />
   </a>
 </p>
+
+---
 
 <br/>
 
