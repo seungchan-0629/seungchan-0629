@@ -73,5 +73,5 @@
 
 <p align="center">
   <b>지속 가능한 성장과 신뢰할 수 있는 개발을 추구합니다.</b><br/>
-  📧 Email: <code>(여기에 실제 연락 이메일 주소를 입력해주세요)</code>
+  📧 Email: <code>(shtmdcks06@gmail.com)</code>
 </p>
