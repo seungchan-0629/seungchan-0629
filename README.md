@@ -59,18 +59,6 @@
 
 <br/>
 
-## 📊 GitHub Insights
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=seungchan-0629&show_icons=true&theme=slate&hide_border=true&align=center" alt="seungchan-0629's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seungchan-0629&layout=compact&theme=slate&hide_border=true" alt="Top Langs" />
-</p>
-
-<br/>
-
 <p align="center">
   <b>지속 가능한 성장과 신뢰할 수 있는 개발을 추구합니다.</b><br/>
   📧 Email: <code>(shtmdcks06@gmail.com)</code>
