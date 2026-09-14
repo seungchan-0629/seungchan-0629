@@ -1,10 +1,13 @@
-# ⚡ SEUNG CHAN | Back-end Developer
+# 노승찬 | Back-end Developer
 
-<p align="left">
-  <a href="https://github.com/seungchan-0629">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=3000&pause=1000&color=94A3B8&center=false&vCenter=true&width=550&lines=Robust+Batch+Processing;Reliable+System+Security;Performance-driven+Backend+Developer" alt="Typing SVG" />
-  </a>
-</p>
+### “꾸준히 배우고, 쉽게 소통하며, 깊이 고민하며 개선하는 개발자”
+> **꾸준하게 배우고 나만의 언어로 쉽게 설명하며, 모니터링과 검증을 통해 시스템 안정성과 성능을 고민하는 개발자.**
+
+## 🙋‍♂️ 소개
+---
+- **유지보수가 쉬운 SW**를 개발하고 싶어요.
+- 개발 과정에서 항상 **사용자의 입장**을 생각해요.
+- 개발을 하나도 모르는 사람에게 **설명하고 이해 시키는 과정**에 자신 있어요
 
 ---
 
