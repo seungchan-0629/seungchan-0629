@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=91A8D0&text=노승찬%20|%20Back-end%20Developer&fontSize=35&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?height=200&type=waving&color=91A8D0&text=노승찬%20|%20Back-end%20Developer&fontSize=35&fontColor=ffffff)
 
 ### “꾸준히 배우고, 쉽게 소통하며, 깊이 고민하고 개선하는 개발자”
 > **꾸준하게 배우고 나만의 언어로 쉽게 설명하며, 모니터링과 검증을 통해 시스템 안정성과 성능을 고민하는 개발자.**
@@ -14,6 +14,21 @@
 ## 🎯 Focus Areas
 > **"보이지 않는 곳에서 시스템을 단단하게 지탱합니다."**  
 > 복잡한 대량의 비즈니스 데이터를 다루는 **Spring Batch 스케줄링**, 대규모 트래픽을 견디는 **성능 분석 및 튜닝**, 그리고 빈틈없는 **인프라 설계**에 큰 흥미를 느끼고 깊게 몰입합니다.
+
+<br/>
+
+## 🛠️ Tech Stack
+
+| 분류 | 기술 스택 (Stack) |
+|:---:|---|
+| **Language** | <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=OpenJDK&logoColor=white"/> |
+| **Back-end** | <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/> <img src="https://img.shields.io/badge/Spring_Batch-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>  |
+| **Front-end** | <img src="https://img.shields.io/badge/Vue.js_3-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/> |
+| **Database** | <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white"/> |
+| **DevOps** | <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/> <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white"/> |
+| **Test / Monitoring** | <img src="https://img.shields.io/badge/nGrinder-111111?style=flat-square&logo=micro-dot-blog&logoColor=white"/> <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white"/> <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=Prometheus&logoColor=white"/> <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=Grafana&logoColor=white"/> |
+| **Version Control / Collaboration** | <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/> |
+| **Cooperation** | <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=Discord&logoColor=white"/> <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/> <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/> |
 
 <br/>
 
@@ -39,21 +54,6 @@
 #### **4️⃣ 시스템 성능 및 보안 검증**
 * **Spring Security & JWT 이중 인증 구축**: Cookie 기반(웹)과 Header 기반(API) 인증을 동시에 지원하는 필터 체인을 구축하여 다양한 클라이언트 환경 대응.
 * **nGrinder 기반 부하 테스트**: 복잡한 인증 환경에서 고성능 부하 테스트를 수행하기 위해 Groovy 기반 동적 토큰 추출 및 헤더 주입 스크립트 설계.
-
-<br/>
-
-## 🛠️ Tech Stack
-
-| 분류 | 기술 스택 (Stack) |
-|:---:|---|
-| **Language** | <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=OpenJDK&logoColor=white"/> |
-| **Back-end** | <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/> <img src="https://img.shields.io/badge/Spring_Batch-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>  |
-| **Front-end** | <img src="https://img.shields.io/badge/Vue.js_3-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/> |
-| **Database** | <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white"/> |
-| **DevOps** | <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/> <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white"/> |
-| **Test / Monitoring** | <img src="https://img.shields.io/badge/nGrinder-111111?style=flat-square&logo=micro-dot-blog&logoColor=white"/> <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white"/> <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=Prometheus&logoColor=white"/> <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=Grafana&logoColor=white"/> |
-| **Version Control / Collaboration** | <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/> |
-| **Cooperation** | <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=Discord&logoColor=white"/> <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/> <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/> |
 
 <br/>
 
