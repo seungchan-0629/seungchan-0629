@@ -1,4 +1,4 @@
-# ⚡노승찬 | Back-end Developer
+![header](https://capsule-render.vercel.app/api?type=waving&color=91A8D0&text=노승찬%20|%20Back-end%20Developer&fontSize=35&fontColor=ffffff)
 
 ### “꾸준히 배우고, 쉽게 소통하며, 깊이 고민하고 개선하는 개발자”
 > **꾸준하게 배우고 나만의 언어로 쉽게 설명하며, 모니터링과 검증을 통해 시스템 안정성과 성능을 고민하는 개발자.**
