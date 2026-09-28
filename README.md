@@ -39,7 +39,7 @@
 > *본사와 가맹점 간의 복잡한 물류·재무 데이터를 무결하게 통합하고, 이벤트 기반의 시스템 동기화와 고성능 데이터 집계 엔진을 구축했습니다.*
 
 <details>
-<summary><h3> FrontEnd, BackEnd 서비스 운영 모니터링 화면 (기간 : 26.05.11 ~ 26.06.04 / 대략 한달 가량)</h3></summary>
+<summary><h3> FrontEnd, BackEnd 서비스 실제 운영 모니터링 화면 (기간 : 26.05.11 ~ 26.06.04 / 대략 한달 가량)</h3></summary>
   
 <img width="1919" height="1079" alt="Image" src="https://github.com/user-attachments/assets/3489fb55-e18f-4435-acf3-6a29c410a8f1" />
 <img width="1919" height="1079" alt="Image" src="https://github.com/user-attachments/assets/f4c3d5d1-e0a7-4063-b48b-6eeb0e583cbf" />
