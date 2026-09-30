@@ -69,9 +69,13 @@
 
 <details>
   <summary> 테스트·모니터링 상세 결과 </summary>
-  <h4>지속적인 테스트 중단 현상</h4>
+  <h4>지속적인 테스트 중단 현상 (Before)</h4>
 <img width="1606" height="752" alt="Image" src="https://github.com/user-attachments/assets/d1d595ac-d77e-4010-aa1b-d7c75784ffaf" />
 <img width="1300" height="1284" alt="Image" src="https://github.com/user-attachments/assets/54c1c6ad-0b32-485a-a07d-33bfd5623cee" />
+
+  <h4> 테스트 완주 (After)</h4>
+  <img width="1616" height="756" alt="Image" src="https://github.com/user-attachments/assets/961717cb-f88d-4da9-8fb8-b537ebf016f6" />
+  <img width="1304" height="1284" alt="Image" src="https://github.com/user-attachments/assets/5b10c947-8669-4e2e-8b93-2b4015e963c7" />
 
 
 <h4>grafana 모니터링 화면</h4>
