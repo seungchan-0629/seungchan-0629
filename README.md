@@ -47,9 +47,43 @@
 
 </details>
 
-### 📈**성능개선에 대한 고민과 그 결과 요약**
+### 📈**성능개선에 대한 고민과 그 결과**
+* ### 요약
 * 부하 테스트 도중 처리량 급락과 조기 중단을 재현하고, 스크립트 라이프사이클·커넥션 재사용 한도를 개선해 테스트 완주와 TPS 최적화 (시스템 처리량 **730% 개선**, 총 처리 요청 수 **약 15.9배 증가**)
 * 가맹점 정산 조회의 N+1 쿼리를 조인·배치 조회로 통합해 호출 수를 크게 줄이고 응답 시간을 60초 -> 0.5s 수준으로 단축 (**약 60초에서 0.5초** 이내로 **120배** 이상 단축)
+
+<details>
+<summary><h4> 테스트, 모니터링 결과 및 분석 </h4></summary>
+  
+#### 개선 전후 비교
+| 지표 | 개선 전 (8~9차 평균) | 개선 후 (10차 최종) | 개선도 |
+| --- | --- | --- | --- |
+| 테스트 완주 (Run Time) | 1분 36초 (조기 중단) | **3분 00초 (100% 완주)** | 완주 성공 |
+| 총 처리 요청 수 (Executed Tests) | 4,879건 | **77,520건** | **+1,488.85%** (약 15.9배) |
+| 평균 처리량 (Mean TPS) | 53.0 TPS | **440.1 TPS** | **+730.38%** (약 8.3배) |
+| 최대 처리량 (Peak TPS) | 229.0 TPS | **530.0 TPS** | **+131.44%** (약 2.3배) |
+| 에러율 (Error Rate) | 연결 거부로 측정 불가 | **0.00%** (0 / 77,520건) | 에러 0건 |
+| 평균 응답 시간 (Mean Test Time) | 49.35 ms | 139.73 ms | 100 Vuser 부하에서 안정적 유지 |
+
+> 테스트 환경: nGrinder 100 Vuser, 3분 / Spring Boot + Prometheus + Grafana
+
+<details>
+  <summary> 테스트·모니터링 상세 결과 </summary>
+  <h4>지속적인 테스트 중단 현상</h4>
+<img width="1606" height="752" alt="Image" src="https://github.com/user-attachments/assets/d1d595ac-d77e-4010-aa1b-d7c75784ffaf" />
+<img width="1300" height="1284" alt="Image" src="https://github.com/user-attachments/assets/54c1c6ad-0b32-485a-a07d-33bfd5623cee" />
+
+
+<h4>grafana 모니터링 화면</h4>
+<img width="2774" height="1276" alt="Image" src="https://github.com/user-attachments/assets/abf559ab-e143-44da-9c5a-3b568f02d7bf" />
+<img width="2764" height="1224" alt="Image" src="https://github.com/user-attachments/assets/5356af14-1ace-4d27-8602-d7ef583374a3" />
+<img width="962" height="1160" alt="Image" src="https://github.com/user-attachments/assets/4a3ee61c-dcf2-46ab-a3b6-a93072e82b1b" />
+<img width="2770" height="766" alt="Image" src="https://github.com/user-attachments/assets/46fbc6e7-2f5d-4a3c-852b-4e2a812646bd" />
+</details>
+
+
+
+</details>
 
 ### **🔑 핵심 도메인별 기술적 성과**
 
