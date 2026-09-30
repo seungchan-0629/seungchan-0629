@@ -83,6 +83,9 @@
 <img width="2764" height="1224" alt="Image" src="https://github.com/user-attachments/assets/5356af14-1ace-4d27-8602-d7ef583374a3" />
 <img width="962" height="1160" alt="Image" src="https://github.com/user-attachments/assets/4a3ee61c-dcf2-46ab-a3b6-a93072e82b1b" />
 <img width="2770" height="766" alt="Image" src="https://github.com/user-attachments/assets/46fbc6e7-2f5d-4a3c-852b-4e2a812646bd" />
+
+Spring 서버는 **정상적으로 요청을 다 받아내고 있었고 뻗지 않았습니다.**
+
 </details>
 
 
